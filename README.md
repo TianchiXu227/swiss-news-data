@@ -1,0 +1,1 @@
+# swiss-news-data
