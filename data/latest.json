@@ -1,6 +1,126 @@
 {
-  "lastUpdated": "2025-09-29T12:00:00.000Z",
-  "count": 0,
-  "news": [],
-  "message": "等待首次自动抓取运行..."
+  "lastUpdated": "2025-09-29T10:10:21.739956+00:00",
+  "count": 10,
+  "news": [
+    {
+      "id": "瑞士联邦政府_13_1759140619",
+      "title": "More about «Federal Council launches consultation on the capitalisation of foreign participations by parent companies of systemically important banks»",
+      "titleChinese": "More about «Federal Council launches consultation on the capitalisation of foreign participations by parent companies of systemically important banks»",
+      "source": "瑞士联邦政府",
+      "url": "https://www.admin.ch/en/newnsb/iWZ3p3LmGWCEvP46a00yt",
+      "publishTime": "2025-09-29T10:10:19.464176+00:00",
+      "category": "government",
+      "language": "en",
+      "extractedAt": "2025-09-29T10:10:19.464178+00:00",
+      "extractedBy": "github-pages-crawler"
+    },
+    {
+      "id": "瑞士联邦政府_12_1759140619",
+      "title": "More about «AGOV is replacing CH-Login»",
+      "titleChinese": "More about «AGOV is replacing CH-Login»",
+      "source": "瑞士联邦政府",
+      "url": "https://www.admin.ch/en/newnsb/iS9ful65uV4XB5p5jqOK0",
+      "publishTime": "2025-09-29T10:10:19.464169+00:00",
+      "category": "government",
+      "language": "en",
+      "extractedAt": "2025-09-29T10:10:19.464171+00:00",
+      "extractedBy": "github-pages-crawler"
+    },
+    {
+      "id": "瑞士联邦政府_11_1759140619",
+      "title": "More about «Quarterly gross domestic product: revised data up to second quarter of 2025»",
+      "titleChinese": "More about «Quarterly gross domestic product: revised data up to second quarter of 2025»",
+      "source": "瑞士联邦政府",
+      "url": "https://www.admin.ch/en/newnsb/DCHSyIXJPiKkcA4kVRmgd",
+      "publishTime": "2025-09-29T10:10:19.464162+00:00",
+      "category": "government",
+      "language": "en",
+      "extractedAt": "2025-09-29T10:10:19.464164+00:00",
+      "extractedBy": "github-pages-crawler"
+    },
+    {
+      "id": "瑞士联邦政府_10_1759140619",
+      "title": "More about «Sustained increase in Swiss GDP in 2024»",
+      "titleChinese": "More about «Sustained increase in Swiss GDP in 2024»",
+      "source": "瑞士联邦政府",
+      "url": "https://www.admin.ch/en/newnsb/g_gdkur8MbGnSQEUz5IWy",
+      "publishTime": "2025-09-29T10:10:19.464154+00:00",
+      "category": "government",
+      "language": "en",
+      "extractedAt": "2025-09-29T10:10:19.464156+00:00",
+      "extractedBy": "github-pages-crawler"
+    },
+    {
+      "id": "瑞士联邦政府_9_1759140619",
+      "title": "More about «Switzerland signs contract with the USA on environmentally sound ammunition disposal for the US Army»",
+      "titleChinese": "More about «Switzerland signs contract with the USA on environmentally sound ammunition disposal for the US Army»",
+      "source": "瑞士联邦政府",
+      "url": "https://www.admin.ch/en/newnsb/_wpw-ooKKgCBTN96jd_y3",
+      "publishTime": "2025-09-29T10:10:19.464142+00:00",
+      "category": "government",
+      "language": "en",
+      "extractedAt": "2025-09-29T10:10:19.464144+00:00",
+      "extractedBy": "github-pages-crawler"
+    },
+    {
+      "id": "瑞士联邦政府_8_1759140619",
+      "title": "More about «Six-month reporting obligation for cyberattacks on critical infrastructures»",
+      "titleChinese": "More about «Six-month reporting obligation for cyberattacks on critical infrastructures»",
+      "source": "瑞士联邦政府",
+      "url": "https://www.admin.ch/en/newnsb/gezctyF6KYR7UkCjXBC5s",
+      "publishTime": "2025-09-29T10:10:19.464134+00:00",
+      "category": "government",
+      "language": "en",
+      "extractedAt": "2025-09-29T10:10:19.464136+00:00",
+      "extractedBy": "github-pages-crawler"
+    },
+    {
+      "id": "瑞士联邦政府_7_1759140619",
+      "title": "More about «President Keller-Sutter to attend EPC summit in Denmark before visiting Vatican City and Italy»",
+      "titleChinese": "More about «President Keller-Sutter to attend EPC summit in Denmark before visiting Vatican City and Italy»",
+      "source": "瑞士联邦政府",
+      "url": "https://www.admin.ch/en/newnsb/4I_mxtVh-gKRN2mRfgn0N",
+      "publishTime": "2025-09-29T10:10:19.464124+00:00",
+      "category": "government",
+      "language": "en",
+      "extractedAt": "2025-09-29T10:10:19.464126+00:00",
+      "extractedBy": "github-pages-crawler"
+    },
+    {
+      "id": "瑞士联邦政府_6_1759140619",
+      "title": "More about «Empa consortium awarded funding from SWEET programme»",
+      "titleChinese": "More about «Empa consortium awarded funding from SWEET programme»",
+      "source": "瑞士联邦政府",
+      "url": "https://www.admin.ch/en/newnsb/MSjbXTLylleu",
+      "publishTime": "2025-09-29T10:10:19.464111+00:00",
+      "category": "government",
+      "language": "en",
+      "extractedAt": "2025-09-29T10:10:19.464113+00:00",
+      "extractedBy": "github-pages-crawler"
+    },
+    {
+      "id": "瑞士联邦政府_1_1759140619",
+      "title": "News Service BundNews Service BundThe portal of the Swiss government",
+      "titleChinese": "News Service BundNews Service BundThe portal of the Swiss government",
+      "source": "瑞士联邦政府",
+      "url": "https://www.admin.ch/en",
+      "publishTime": "2025-09-29T10:10:19.464086+00:00",
+      "category": "government",
+      "language": "en",
+      "extractedAt": "2025-09-29T10:10:19.464088+00:00",
+      "extractedBy": "github-pages-crawler"
+    },
+    {
+      "id": "瑞士联邦政府_0_1759140619",
+      "title": "Skip to main content",
+      "titleChinese": "Skip to main content",
+      "source": "瑞士联邦政府",
+      "url": "https://www.admin.ch#main-content",
+      "publishTime": "2025-09-29T10:10:19.464054+00:00",
+      "category": "government",
+      "language": "en",
+      "extractedAt": "2025-09-29T10:10:19.464069+00:00",
+      "extractedBy": "github-pages-crawler"
+    }
+  ]
 }
